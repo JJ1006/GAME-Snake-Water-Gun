@@ -73,6 +73,6 @@ while (win!=n and lose!=n):
     
     a=gameWin(comp,you)
 if win==n:
-    print("\n\nYOU ARE THE WINNER\n\n")
+    print("\n\nCONGRATULATIONS, YOU ARE THE WINNER\n\n")
 else:
     print("\n\nBETTER LUCK NEXT TIME\n\n")
